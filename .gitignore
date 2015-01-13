@@ -185,3 +185,4 @@ FakesAssemblies/
 # TypeScript
 *.js
 *.js.map
+*.dat
