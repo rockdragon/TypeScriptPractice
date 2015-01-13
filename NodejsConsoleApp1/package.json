@@ -6,5 +6,8 @@
   "author": {
     "name": "ye.mo",
     "email": ""
+  },
+  "dependencies" : {
+	"ffi" : "*"
   }
 }
